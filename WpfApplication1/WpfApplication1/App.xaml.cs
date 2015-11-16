@@ -14,5 +14,6 @@ namespace WpfApplication1
     public partial class App : Application
     {
         int i;
+        int y;
     }
 }
